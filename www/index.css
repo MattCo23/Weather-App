@@ -1,0 +1,360 @@
+body {
+  background-color: rgb(155, 155, 194);
+}
+
+.map {
+  padding: 3rem;
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+}
+
+.coruna {
+  position: absolute;
+  left: 250px;
+  width: 320px;
+}
+
+.lugo {
+  position: absolute;
+  width: 296px;
+  left: 355px;
+  top: 88px;
+}
+
+.pontevedra {
+  position: absolute;
+  width: 239px;
+  top: 173.5px;
+  left: 289px;
+}
+
+.ourense {
+  position: absolute;
+  width: 275px;
+  top: 184px;
+  left: 345.3px;
+}
+
+.asturias {
+  position: absolute;
+  width: 273px;
+  top: 143.2px;
+  left: 515.5px;
+}
+
+.leon {
+  position: absolute;
+  width: 236px;
+  left: 525px;
+  top: 217.4px;
+}
+
+.zamora {
+  position: absolute;
+  width: 173px;
+  left: 532px;
+  top: 341px;
+}
+
+.cantabria {
+  position: absolute;
+  width: 164px;
+  left: 741.5px;
+  top: 189.5px;
+}
+
+.palencia {
+  position: absolute;
+  width: 345px;
+  left: 605px;
+  top: 239px;
+}
+
+.valladolid {
+  position: absolute;
+  width: 150px;
+  left: 674.8px;
+  top: 339px;
+}
+
+.salamanca {
+  position: absolute;
+  width: 277px;
+  left: 487.2px;
+  top: 459.3px;
+}
+
+.avila {
+  position: absolute;
+  width: 158px;
+  left: 647.5px;
+  top: 486px;
+}
+
+.segovia {
+  position: absolute;
+  width: 149.5px;
+  left: 748.4px;
+  top: 434.4px;
+}
+
+.vizcaya {
+  position: absolute;
+  width: 124px;
+  left: 861.5px;
+  top: 196.3px;
+}
+
+.guipuzcoa {
+  position: absolute;
+  width: 132px;
+  left: 928.2px;
+  top: 203px;
+}
+
+.alava {
+  position: absolute;
+  width: 197px;
+  left: 841px;
+  top: 224.5px;
+}
+
+.burgos {
+  position: absolute;
+  width: 177.8px;
+  left: 787.3px;
+  top: 228px;
+}
+
+.rioja {
+  position: absolute;
+  width: 137.8px;
+  left: 904.2px;
+  top: 301.8px;
+}
+
+.soria {
+  position: absolute;
+  width: 173.4px;
+  left: 862px;
+  top: 363.8px;
+}
+
+.navarra {
+  position: absolute;
+  width: 174px;
+  left: 959.3px;
+  top: 212.1px;
+}
+
+.zaragoza {
+  position: absolute;
+  width: 480px;
+  left: 879px;
+  top: 275.7px;
+}
+
+.huesca {
+  position: absolute;
+  width: 412px;
+  left: 986.4px;
+  top: 254px;
+}
+
+.lleida {
+  position: absolute;
+  width: 422px;
+  left: 1094.3px;
+  top: 257px;
+}
+
+.barcelona {
+  position: absolute;
+  width: 300px;
+  left: 1251.8px;
+  top: 323.2px;
+}
+
+.girona {
+  position: absolute;
+  width: 157px;
+  left: 1360.5px;
+  top: 301.5px;
+}
+
+.tarragona {
+  position: absolute;
+  width: 288.4px;
+  left: 1149.4px;
+  top: 420.5px;
+}
+
+.teruel {
+  position: absolute;
+  width: 400px;
+  left: 935px;
+  top: 454px;
+}
+
+.guadalajara {
+  position: absolute;
+  width: 194px;
+  left: 864.2px;
+  top: 469.6px;
+}
+
+.castellon {
+  position: absolute;
+  width: 155.5px;
+  left: 1125.6px;
+  top: 532.5px;
+}
+
+.cuenca {
+  position: absolute;
+  width: 203.8px;
+  left: 897.2px;
+  top: 549.3px;
+}
+
+.madrid {
+  position: absolute;
+  width: 162px;
+  left: 756px;
+  top: 484.8px;
+}
+
+.valencia {
+  position: absolute;
+  width: 396px;
+  left: 939px;
+  top: 601.7px;
+}
+
+.caceres {
+  position: absolute;
+  width: 384px;
+  left: 404.5px;
+  top: 561px;
+}
+
+.badajoz {
+  position: absolute;
+  width: 401.5px;
+  left: 417.5px;
+  top: 691px;
+}
+
+.toledo {
+  position: absolute;
+  width: 281.5px;
+  left: 662.5px;
+  top: 590px;
+}
+
+.alicante {
+  position: absolute;
+  width: 137.5px;
+  left: 1104px;
+  top: 772px;
+}
+
+.ciudad-real {
+  position: absolute;
+  width: 324px;
+  left: 670.5px;
+  top: 683.5px;
+}
+
+.albacete {
+  position: absolute;
+  width: 198px;
+  left: 927.5px;
+  top: 709px;
+}
+
+.murcia {
+  position: absolute;
+  width: 178px;
+  left: 977.5px;
+  top: 790px;
+}
+
+.jaen {
+  position: absolute;
+  width: 303px;
+  left: 728.5px;
+  top: 816.5px;
+}
+
+.almeria {
+  position: absolute;
+  width: 326px;
+  left: 816px;
+  top: 894px;
+}
+
+.cordoba {
+  position: absolute;
+  width: 175px;
+  left: 650.5px;
+  top: 782px;
+}
+
+.granada {
+  position: absolute;
+  width: 228px;
+  left: 774px;
+  top: 880px;
+}
+
+.sevilla {
+  position: absolute;
+  width: 363px;
+  left: 473.5px;
+  top: 854.5px;
+}
+
+.malaga {
+  position: absolute;
+  width: 255px;
+  left: 619px;
+  top: 978.2px;
+  transform: rotate(-0.6deg);
+}
+
+.huelva {
+  position: absolute;
+  width: 384px;
+  left: 338.5px;
+  top: 848.5px;
+}
+
+.cadiz {
+  position: absolute;
+  width: 145px;
+  left: 563px;
+  top: 1011px;
+}
+
+.baleares {
+  position: absolute;
+  width: 350px;
+  left: 1280px;
+  top: 580px;
+}
+
+.canarias {
+  position: absolute;
+  width: 450px;
+  left: 50px;
+  top: 1080px;
+}
+
+.ceutamelilla {
+  position: absolute;
+  width: 450px;
+  left: 545px;
+  top: 1160px;
+}

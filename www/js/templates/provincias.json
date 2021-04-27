@@ -1,0 +1,247 @@
+[
+  {
+    "src": "Coruna",
+    "alt": "provincia-corunha",
+    "class": "coruna"
+  },
+  {
+    "src": "Pontevedra",
+    "alt": "provincia-pontevedra",
+    "class": "pontevedra"
+  },
+  {
+    "src": "Ourense",
+    "alt": "provincia-ourense",
+    "class": "ourense"
+  },
+  {
+    "src": "Lugo",
+    "alt": "provincia-lugo",
+    "class": "lugo"
+  },
+  {
+    "src": "Leon",
+    "alt": "provincia-leon",
+    "class": "leon"
+  },
+  {
+    "src": "Zamora",
+    "alt": "provincia-zamora",
+    "class": "zamora"
+  },
+  {
+    "src": "Cantabria",
+    "alt": "provincia-cantabria",
+    "class": "cantabria"
+  },
+  {
+    "src": "Palencia",
+    "alt": "provincia-palencia",
+    "class": "palencia"
+  },
+  {
+    "src": "Valladolid",
+    "alt": "provincia-valladolid",
+    "class": "valladolid"
+  },
+  {
+    "src": "Salamanca",
+    "alt": "provincia-salamanca",
+    "class": "salamanca"
+  },
+  {
+    "src": "Avila",
+    "alt": "provincia-avila",
+    "class": "avila"
+  },
+  {
+    "src": "Segovia",
+    "alt": "provincia-segovia",
+    "class": "segovia"
+  },
+  {
+    "src": "Vizcaya",
+    "alt": "provincia-vizcaya",
+    "class": "vizcaya"
+  },
+  {
+    "src": "Guipuzcoa",
+    "alt": "provincia-guipuzcoa",
+    "class": "guipuzcoa"
+  },
+  {
+    "src": "Alava",
+    "alt": "provincia-alava",
+    "class": "alava"
+  },
+  {
+    "src": "Burgos",
+    "alt": "provincia-burgos",
+    "class": "burgos"
+  },
+  {
+    "src": "LaRioja",
+    "alt": "provincia-rioja",
+    "class": "rioja"
+  },
+  {
+    "src": "Soria",
+    "alt": "provincia-soria",
+    "class": "soria"
+  },
+  {
+    "src": "Navarra",
+    "alt": "provincia-navarra",
+    "class": "navarra"
+  },
+  {
+    "src": "Zaragoza",
+    "alt": "provincia-zaragoza",
+    "class": "zaragoza"
+  },
+  {
+    "src": "Huesca",
+    "alt": "provincia-huesca",
+    "class": "huesca"
+  },
+  {
+    "src": "Lleida",
+    "alt": "provincia-lleida",
+    "class": "lleida"
+  },
+  {
+    "src": "Barcelona",
+    "alt": "provincia-barcelona",
+    "class": "barcelona"
+  },
+  {
+    "src": "Girona",
+    "alt": "provincia-girona",
+    "class": "girona"
+  },
+  {
+    "src": "Tarragona",
+    "alt": "provincia-tarragona",
+    "class": "tarragona"
+  },
+  {
+    "src": "Teruel",
+    "alt": "provincia-teruel",
+    "class": "teruel"
+  },
+  {
+    "src": "Guadalajara",
+    "alt": "provincia-guadalajara",
+    "class": "guadalajara"
+  },
+  {
+    "src": "Castellon",
+    "alt": "provincia-castellon",
+    "class": "castellon"
+  },
+  {
+    "src": "Cuenca",
+    "alt": "provincia-cuenca",
+    "class": "cuenca"
+  },
+  {
+    "src": "Madrid",
+    "alt": "provincia-madrid",
+    "class": "madrid"
+  },
+  {
+    "src": "Valencia",
+    "alt": "provincia-valencia",
+    "class": "valencia"
+  },
+  {
+    "src": "Caceres",
+    "alt": "provincia-caceres",
+    "class": "caceres"
+  },
+  {
+    "src": "Badajoz",
+    "alt": "provincia-badajoz",
+    "class": "badajoz"
+  },
+  {
+    "src": "Toledo",
+    "alt": "provincia-toledo",
+    "class": "toledo"
+  },
+  {
+    "src": "Alicante",
+    "alt": "provincia-alicante",
+    "class": "alicante"
+  },
+  {
+    "src": "CiudadReal",
+    "alt": "provinci-ciudad-real",
+    "class": "ciudad-real"
+  },
+  {
+    "src": "Albacete",
+    "alt": "provincia-albacete",
+    "class": "albacete"
+  },
+  {
+    "src": "Murcia",
+    "alt": "provincia-murcia",
+    "class": "murcia"
+  },
+  {
+    "src": "Jaen",
+    "alt": "provincia-jaen",
+    "class": "jaen"
+  },
+  {
+    "src": "Almeria",
+    "alt": "provincia-almeria",
+    "class": "almeria"
+  },
+  {
+    "src": "Cordoba",
+    "alt": "provincia-cordoba",
+    "class": "cordoba"
+  },
+  {
+    "src": "Granada",
+    "alt": "provincia-granada",
+    "class": "granada"
+  },
+  {
+    "src": "Sevilla",
+    "alt": "provincia-sevilla",
+    "class": "sevilla"
+  },
+  {
+    "src": "Malaga",
+    "alt": "provincia-malaga",
+    "class": "malaga"
+  },
+  {
+    "src": "Huelva",
+    "alt": "provincia-huelva",
+    "class": "huelva"
+  },
+  {
+    "src": "Cadiz",
+    "alt": "provincia-cadiz",
+    "class": "cadiz"
+  },
+  {
+    "src": "Baleares",
+    "alt": "provincia-baleares",
+    "class": "baleares"
+  },
+  {
+    "src": "Canarias",
+    "alt": "provincia-canarias",
+    "class": "canarias"
+  },
+  {
+    "src": "CeutayMellilla",
+    "alt": "provincia-ceuta-melilla",
+    "class": "ceutamelilla"
+  }
+]
